@@ -1,0 +1,16 @@
+/home/xylia/Documents/csharp/Data_and_Alg/Arrays/bin/Debug/net5.0/Arrays
+/home/xylia/Documents/csharp/Data_and_Alg/Arrays/bin/Debug/net5.0/Arrays.deps.json
+/home/xylia/Documents/csharp/Data_and_Alg/Arrays/bin/Debug/net5.0/Arrays.runtimeconfig.json
+/home/xylia/Documents/csharp/Data_and_Alg/Arrays/bin/Debug/net5.0/Arrays.runtimeconfig.dev.json
+/home/xylia/Documents/csharp/Data_and_Alg/Arrays/bin/Debug/net5.0/Arrays.dll
+/home/xylia/Documents/csharp/Data_and_Alg/Arrays/bin/Debug/net5.0/ref/Arrays.dll
+/home/xylia/Documents/csharp/Data_and_Alg/Arrays/bin/Debug/net5.0/Arrays.pdb
+/home/xylia/Documents/csharp/Data_and_Alg/Arrays/obj/Debug/net5.0/Arrays.csproj.AssemblyReference.cache
+/home/xylia/Documents/csharp/Data_and_Alg/Arrays/obj/Debug/net5.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/xylia/Documents/csharp/Data_and_Alg/Arrays/obj/Debug/net5.0/Arrays.AssemblyInfoInputs.cache
+/home/xylia/Documents/csharp/Data_and_Alg/Arrays/obj/Debug/net5.0/Arrays.AssemblyInfo.cs
+/home/xylia/Documents/csharp/Data_and_Alg/Arrays/obj/Debug/net5.0/Arrays.csproj.CoreCompileInputs.cache
+/home/xylia/Documents/csharp/Data_and_Alg/Arrays/obj/Debug/net5.0/Arrays.dll
+/home/xylia/Documents/csharp/Data_and_Alg/Arrays/obj/Debug/net5.0/ref/Arrays.dll
+/home/xylia/Documents/csharp/Data_and_Alg/Arrays/obj/Debug/net5.0/Arrays.pdb
+/home/xylia/Documents/csharp/Data_and_Alg/Arrays/obj/Debug/net5.0/Arrays.genruntimeconfig.cache

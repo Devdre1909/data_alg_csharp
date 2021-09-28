@@ -1,0 +1,16 @@
+/home/xylia/Documents/csharp/Data_and_Alg/MutiplicationTable/obj/Debug/net5.0/MutiplicationTable.csproj.AssemblyReference.cache
+/home/xylia/Documents/csharp/Data_and_Alg/MutiplicationTable/obj/Debug/net5.0/MutiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+/home/xylia/Documents/csharp/Data_and_Alg/MutiplicationTable/obj/Debug/net5.0/MutiplicationTable.AssemblyInfoInputs.cache
+/home/xylia/Documents/csharp/Data_and_Alg/MutiplicationTable/obj/Debug/net5.0/MutiplicationTable.AssemblyInfo.cs
+/home/xylia/Documents/csharp/Data_and_Alg/MutiplicationTable/obj/Debug/net5.0/MutiplicationTable.csproj.CoreCompileInputs.cache
+/home/xylia/Documents/csharp/Data_and_Alg/MutiplicationTable/bin/Debug/net5.0/MutiplicationTable
+/home/xylia/Documents/csharp/Data_and_Alg/MutiplicationTable/bin/Debug/net5.0/MutiplicationTable.deps.json
+/home/xylia/Documents/csharp/Data_and_Alg/MutiplicationTable/bin/Debug/net5.0/MutiplicationTable.runtimeconfig.json
+/home/xylia/Documents/csharp/Data_and_Alg/MutiplicationTable/bin/Debug/net5.0/MutiplicationTable.runtimeconfig.dev.json
+/home/xylia/Documents/csharp/Data_and_Alg/MutiplicationTable/bin/Debug/net5.0/MutiplicationTable.dll
+/home/xylia/Documents/csharp/Data_and_Alg/MutiplicationTable/bin/Debug/net5.0/ref/MutiplicationTable.dll
+/home/xylia/Documents/csharp/Data_and_Alg/MutiplicationTable/bin/Debug/net5.0/MutiplicationTable.pdb
+/home/xylia/Documents/csharp/Data_and_Alg/MutiplicationTable/obj/Debug/net5.0/MutiplicationTable.dll
+/home/xylia/Documents/csharp/Data_and_Alg/MutiplicationTable/obj/Debug/net5.0/ref/MutiplicationTable.dll
+/home/xylia/Documents/csharp/Data_and_Alg/MutiplicationTable/obj/Debug/net5.0/MutiplicationTable.pdb
+/home/xylia/Documents/csharp/Data_and_Alg/MutiplicationTable/obj/Debug/net5.0/MutiplicationTable.genruntimeconfig.cache
