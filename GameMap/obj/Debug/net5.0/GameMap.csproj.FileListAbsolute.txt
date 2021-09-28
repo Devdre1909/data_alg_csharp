@@ -1,0 +1,16 @@
+/home/xylia/Documents/csharp/Data_and_Alg/GameMap/obj/Debug/net5.0/GameMap.csproj.AssemblyReference.cache
+/home/xylia/Documents/csharp/Data_and_Alg/GameMap/obj/Debug/net5.0/GameMap.GeneratedMSBuildEditorConfig.editorconfig
+/home/xylia/Documents/csharp/Data_and_Alg/GameMap/obj/Debug/net5.0/GameMap.AssemblyInfoInputs.cache
+/home/xylia/Documents/csharp/Data_and_Alg/GameMap/obj/Debug/net5.0/GameMap.AssemblyInfo.cs
+/home/xylia/Documents/csharp/Data_and_Alg/GameMap/obj/Debug/net5.0/GameMap.csproj.CoreCompileInputs.cache
+/home/xylia/Documents/csharp/Data_and_Alg/GameMap/bin/Debug/net5.0/GameMap
+/home/xylia/Documents/csharp/Data_and_Alg/GameMap/bin/Debug/net5.0/GameMap.deps.json
+/home/xylia/Documents/csharp/Data_and_Alg/GameMap/bin/Debug/net5.0/GameMap.runtimeconfig.json
+/home/xylia/Documents/csharp/Data_and_Alg/GameMap/bin/Debug/net5.0/GameMap.runtimeconfig.dev.json
+/home/xylia/Documents/csharp/Data_and_Alg/GameMap/bin/Debug/net5.0/GameMap.dll
+/home/xylia/Documents/csharp/Data_and_Alg/GameMap/bin/Debug/net5.0/ref/GameMap.dll
+/home/xylia/Documents/csharp/Data_and_Alg/GameMap/bin/Debug/net5.0/GameMap.pdb
+/home/xylia/Documents/csharp/Data_and_Alg/GameMap/obj/Debug/net5.0/GameMap.dll
+/home/xylia/Documents/csharp/Data_and_Alg/GameMap/obj/Debug/net5.0/ref/GameMap.dll
+/home/xylia/Documents/csharp/Data_and_Alg/GameMap/obj/Debug/net5.0/GameMap.pdb
+/home/xylia/Documents/csharp/Data_and_Alg/GameMap/obj/Debug/net5.0/GameMap.genruntimeconfig.cache
